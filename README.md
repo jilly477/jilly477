@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hey! 👋
+ My name is Jilly and I am currently a software engineering student at the University of Waterloo. I find myself to be a curious person, always looking for new opportunities to learn, grow, and further develop my skills and interests! As of right now, I am trying to learn more about web development so I have been taking courses on HTML, CSS, Javascript, and React.
+ 
+ - 🌱 I am currently working at [Bell Canada](https://www.bell.ca/) as a Student Engineer
+ - 🔭 Currently volunteer as a web developer for [PuMP](https://pumprofessionals.org/) where we are building their new website
+ - ⚡ Using Bootstrap Studio to develop a website for Bridge to Badminton: a federally registered non-profit organization 
+ - 📫 How to reach me: jillyxsong@gmail.com
+
+Feel free to reach out anytime! I love to meet new people and hear about others' experiences! (p.s. If I'm not at home learning about new technologies, you will catch me outside making dance covers, acapella music, or playing a game of League with my squad! ;) )
 
 <!--
 **jilly477/jilly477** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

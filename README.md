@@ -1,7 +1,8 @@
 ### Hey! 👋
  My name is Jilly and I am currently a second year software engineering student at the University of Waterloo. I find myself to be a curious person, always looking for new opportunities to learn, grow, and further develop my skills and interests! As of right now, I am trying to learn more about web development so I have been taking courses on HTML, CSS, Javascript, and React.
  
- - 🌱 I recently worked at [Dematic](https://www.dematic.com/en-us/) as a DiQ Virtual Developer
+ - 🎮 I'm currently working as a Front End Software Developer at [SIE PlayStation](https://www.playstation.com/en-us/)
+ - 🌱 I've worked at [Dematic](https://www.dematic.com/en-us/) as a DiQ Virtual Developer
  - 🔭 I volunteered as a web developer for [PuMP](https://pumprofessionals.org/) where we built their new website using React
  - ⚡ Using Bootstrap Studio to develop a website for Bridge to Badminton: a federally registered non-profit organization 
  - 📫 How to reach me: jillyxsong@gmail.com
